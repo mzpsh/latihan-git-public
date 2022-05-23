@@ -10,9 +10,10 @@ git status
 
 # Tutorial
 
-## 1. Download repo ke device kamu
+## 1. Download repo ke device kamu dan pindah folder
 ```
 git clone https://github.com/mzpsh/latihan-git-public.git
+cd latihan-git-public
 ```
 ## 2. Bikin branch baru untuk penambahan fitur
 ```
