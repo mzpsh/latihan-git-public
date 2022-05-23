@@ -44,6 +44,7 @@ git merge fitur-baru
 ```
 git add *
 git commit -m "penambahan fitur baru, dan lainnya"
+git push origin main
 ```
 ## 10. Hapus branch yang tidak terpakai
 ```
