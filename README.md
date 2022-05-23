@@ -1,4 +1,14 @@
-# latihan-git-public
+# Tips
+## Periksa lagi di branch mana
+```
+git branch
+```
+## Periksa file mana yang belum di simpan
+```
+git status
+```
+
+# Tutorial
 
 ## 1. Download repo ke device kamu
 ```
